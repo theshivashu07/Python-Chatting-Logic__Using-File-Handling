@@ -1,0 +1,21 @@
+Shri : hey vashu
+Shivam : hey shri
+Shri : how is it going?
+Shivam : very well! whats about you?
+Shri : i'm fine too!
+Shivam : thankGod!
+Shri : Soo?
+Shivam : so what?
+Shri : it means, about your class. is today or not?
+Shivam : ohh, no no! not today. they started his Django class in monday.
+Shri : oh'kkay then. my classes are everyday, at morning to evening yrr!
+Shivam : yahh i know, but thats your call naa! and after that you will master level programmer, naee?
+Shivam : and because of you too love Google, Microsoft and Apple, Its very Important to you naa!
+Shri : yeah, that a good, best and bestest for me!
+Shri : by the way, you are too write a best code's naa! i'll seen your codes and logics too.
+Shivam : hehhee, hmmm!
+Shri : Hey, wtsp?
+Shri : How's it going vashu??
+Shivam : Hey, I'm working on making a my way wtsp chat showing, and show according to a mobile number!
+Shivam : And it all are connected with a database files, and if we configured something in a database, then it will automatically updated on the chat!
+Shivam : Shri it's a crezy work, who's i've working on my life. i'll show you it, after some time, okkay naa...
